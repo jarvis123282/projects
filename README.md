@@ -1,4 +1,4 @@
-# student management system
+# Student Management System
 The Student Management System using Tkinter is a user-friendly application designed to streamline the process of managing student information within an educational institution.
 Typically store this information in a database or file, and you might have more features like editing, deleting, or searching for students.
 
